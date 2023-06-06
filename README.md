@@ -2,4 +2,4 @@
 
 > Getting Lat Lng from Gps
 
-<a href="https://ibb.co/qMvt977"><img src="https://i.ibb.co/5WPNvGG/Screenshot-2023-06-06-11-03-33-352-com-googlemap.jpg" alt="Screenshot-2023-06-06-11-03-33-352-com-googlemap" border="0"></a>
+<a href="https://ibb.co/NZPxvGh"><img src="https://i.ibb.co/TmScfNX/Screenshot-2023-06-06-at-11-10-04-AM.png" alt="Screenshot-2023-06-06-at-11-10-04-AM" border="0"></a>
