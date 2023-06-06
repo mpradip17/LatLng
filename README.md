@@ -1,5 +1,5 @@
-# BottomSheetScaffold
+# Fused Location 
 
-> A simple straightforward BottomSheetScaffold.
+> Getting Lat Lng from Gps
 
-<a href="https://ibb.co/LPRFCvD"><img src="https://i.ibb.co/LPRFCvD/Screenshot-2022-10-11-10-48-45-20-5f6259bdc120b860a0a4a25f6c3610c4.jpg" alt="Screenshot-2022-10-11-10-48-45-20-5f6259bdc120b860a0a4a25f6c3610c4" border="0"></a>
+<a href="https://ibb.co/qMvt977"><img src="https://i.ibb.co/5WPNvGG/Screenshot-2023-06-06-11-03-33-352-com-googlemap.jpg" alt="Screenshot-2023-06-06-11-03-33-352-com-googlemap" border="0"></a>
